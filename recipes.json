@@ -1,0 +1,21 @@
+{
+    "recipes": [
+        {
+            "id": "r003",
+            "name": "Vegetable Stir Fry",
+            "ingredients": [
+                "Broccoli",
+                "Carrots",
+                "Bell Pepper",
+                "Soy Sauce"
+            ],
+            "steps": [
+                "Chop vegetables",
+                "Stir fry in pan",
+                "Add soy sauce",
+                "Serve"
+            ],
+            "servingSize": 2
+        }
+    ]
+}

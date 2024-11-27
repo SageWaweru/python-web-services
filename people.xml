@@ -1,0 +1,14 @@
+<people>
+    <person id="1">
+        <name>Alice</name>
+        <age>30</age>
+        <weight>65</weight>
+        <height>170</height>
+    </person>
+    <person id="2">
+        <name>Bob</name>
+        <age>25</age>
+        <weight>75</weight>
+        <height>180</height>
+    </person>
+</people>

@@ -1,0 +1,34 @@
+<recipes>
+    <recipe id="r001">
+        <name>Spaghetti Bolognese</name>
+        <ingredients>
+            Spaghetti,
+            Ground beef,
+            Tomato sauce,
+            Onions,
+        </ingredients>
+        <steps>
+            Boil the spaghetti according to the package instructions.
+            Cook the ground beef in a pan until browned.
+            Add tomato sauce and onions, and simmer for 15 minutes.
+            Serve the sauce over the spaghetti.
+        </steps>
+        <servingSize>4</servingSize>
+    </recipe>
+    <recipe id="r002">
+        <name>Chicken Curry</name>
+        <ingredients>
+            Chicken breast,
+            Curry powder,
+            Coconut milk,
+            Rice,
+        </ingredients>
+        <steps>
+            Cook the chicken breast in a pan until browned.
+            Stir in the curry powder and cook for 1 minute.
+            Add coconut milk and simmer for 20 minutes.
+            Serve with rice.
+        </steps>
+        <servingSize>3</servingSize>
+    </recipe>
+</recipes>
